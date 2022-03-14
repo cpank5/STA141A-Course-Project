@@ -1,0 +1,114 @@
+Country,max_cases,max_deaths,death_rate,X,Classification,Doc.Classification,Region,Population..mil.,case_rate
+Finland,761110,2717,0.3569786233264574,Finland                                           ,Developed,Developed,Europe,5.6,13.591249999999999
+Denmark,2950605,5175,0.17538775945950066,Denmark                                             ,Developed,Developed,Europe,5.9,50.01025423728813
+Bulgaria,1112699,36098,3.244183737021423,Bulgaria                                              ,Developed,Developed,Europe,6.9,16.126072463768118
+Switzerland,3058825,12766,0.41734979935105804,Switzerland,Developed,Developed,Europe,8.66,35.32130484988453
+Austria,3183997,14568,0.4575381195396855,Austria                                           ,Developed,Developed,Western Pacific,8.9,35.77524719101124
+Hungary,1814362,44653,2.4610854945154275,Hungary                                        ,Developed,Developed,Europe,9.7,18.70476288659794
+Sweden,2466577,17798,0.7215667704677373,Sweden,Developed,Developed,Europe,10.1,24.421554455445545
+Portugal,3413013,21342,0.6253125903710299,Portugal,Developed,Developed,Europe,10.2,33.460911764705884
+Greece,2635614,26562,1.0078107036918151,Greece                                          ,Developed,Developed,Europe,10.6,24.864283018867926
+Czechia,3685973,39155,1.062270396446203,Czechia                                           ,Developed,Developed,Europe,10.7,34.44834579439252
+Belgium,3640052,30408,0.8353726814891654,Belgium                                             ,Developed,Developed,Europe,11.8,30.84789830508474
+Netherlands,7168183,21707,0.3028243001050615,Netherlands,Developed,Developed,Europe,17.13,41.845785172212494
+Romania,2791994,64361,2.3051983636067983,Romania,Developed,Developed,Europe,19.24,14.511403326403327
+Australia,3193065,5586,0.17494163131661897,Australia                                             ,Developed,Developed,Western Pacific,25.8,12.376220930232556
+Poland,5823982,113444,1.9478768993448126,Poland,Developed,Developed,Europe,37.85,15.387006605019815
+Canada,3349647,37229,1.1114305477562263,Canada                                          ,Developed,Developed,Americas,37.9,8.838118733509235
+Spain,11223977,101135,0.9010620745213572,Spain,Developed,Developed,Europe,46.75,24.00850695187166
+Italy,13373207,156868,1.173002107871358,Italy                                          ,Developed,Developed,Europe,61.2,21.8516454248366
+The United Kingdom,19530489,162738,0.8332510261263812,The United Kingdom ,Developed,Developed,Europe,67.89,28.76784357048166
+France,22816866,136976,0.6003278452001253,France                                               ,Developed,Developed,Europe,68.1,33.50494273127754
+Germany,17233729,125590,0.7287453574325092,Germany                                       ,Developed,Developed,Europe,84.4,20.41911018957346
+Japan,5772396,26154,0.4530874181189233,Japan                                                  ,Developed,Developed,Western Pacific,124.7,4.629026463512429
+United States of America,78777620,960144,1.2188030052189949,United States of America,Developed,Developed,Americas,331,23.799885196374625
+Congo,24049,378,1.5717909268576655,Congo                                              ,Developing,Developing,Africa,5.4,0.44535185185185183
+Singapore,939436,1145,0.12188163962207112,Singapore,Developing,Developing,Western Pacific,5.85,16.058735042735044
+Kyrgyzstan,200742,2973,1.4810054697073856,Kyrgyzstan                                        ,Developing,Developing,Europe,6,3.3457
+Eritrea,9721,103,1.0595617734800946,Eritrea                                      ,Developing,Developing,Africa,6.1,0.15936065573770491
+El Salvador,156364,4095,2.6188892583970733,El Salvador                                       ,Developing,Developing,Americas,6.5,2.4056
+Nicaragua,14108,226,1.6019279841224838,Nicaragua,Developing,Developing,Americas,6.6,0.21375757575757579
+Libya,500000,6344,1.2688,Libya                                           ,Developing,Developing,Eastern Mediterranean,7,7.142857142857142
+Paraguay,645768,18529,2.8692967133707463,Paraguay,Developing,Developing,Americas,7.13,9.057054698457224
+Lao People's Democratic Republic,145507,640,0.4398413822015436,Lao People's Democratic Republic                      ,Developing,Developing,Western Pacific,7.6,1.9145657894736843
+Sierra Leone,7667,125,1.63036389722186,Sierra Leone,Developing,Developing,Africa,7.98,0.09607769423558897
+Togo,36860,272,0.7379272924579491,Togo,Developing,Developing,Africa,8.3,0.44409638554216857
+Serbia,1940516,15587,0.8032399629789191,Serbia,Developing,In Transition,Europe,8.74,22.20270022883295
+Israel,3720201,10379,0.278990301868098,Israel                                          ,Developing,Developing,Europe,8.8,42.27501136363636
+Papua New Guinea,41533,639,1.5385356222762623,Papua New Guinea,Developing,Developing,Western Pacific,8.95,0.46405586592178777
+Honduras,414714,10812,2.6070979036155038,Honduras                                          ,Developing,Developing,Americas,9.3,4.459290322580645
+Belarus,941168,6661,0.7077376196385767,Belarus                                           ,Developing,In Transition,Europe,9.4,10.012425531914895
+Tajikistan,17786,125,0.7027999550208028,Tajikistan,Developing,In Transition,Europe,9.56,0.1860460251046025
+United Arab Emirates,885407,2302,0.259993426751765,United Arab Emirates,Developing,Developing,Eastern Mediterranean,9.9,8.94350505050505
+Azerbaijan,790767,9611,1.2154022613487918,Azerbaijan                                            ,Developing,In Transition,Europe,10.3,7.677349514563106
+Dominican Republic,576367,4374,0.7588914701917354,Dominican Republic                                  ,Developing,Developing,Americas,10.6,5.437424528301887
+Jordan,1680179,13959,0.8308043369188641,Jordan                                           ,Developing,Developing,Eastern Mediterranean,10.9,15.41448623853211
+Cuba,1076785,8503,0.7896655321164393,Cuba                                               ,Developing,Developing,Americas,11,9.788954545454546
+South Sudan,17064,138,0.8087201125175809,South Sudan,Developing,Developing,Africa,11.19,0.15249329758713137
+Haiti,30433,827,2.7174448789143364,Haiti                                             ,Developing,Developing,Americas,11.2,0.27172321428571433
+Tunisia,1029596,28062,2.7255350642387888,Tunisia,Developing,Developing,Eastern Mediterranean,11.82,8.71062605752961
+Bolivia (Plurinational State of),897098,21473,2.3936069414935717,Bolivia (Plurinational State of)                      ,Developing,Developing,Americas,11.9,7.538638655462185
+Burundi,38274,15,0.039191095783038095,Burundi                                             ,Developing,Developing,Africa,12.2,0.3137213114754099
+Guinea,36427,440,1.2078952425398743,Guinea                                         ,Developing,Developing,Africa,12.9,0.2823798449612403
+Rwanda,129601,1459,1.1257629184959994,Rwanda,Developing,Developing,Africa,12.95,1.0007799227799228
+Benin,26575,163,0.6133584195672624,Benin                                           ,Developing,Developing,Africa,13.3,0.19981203007518794
+Zimbabwe,242515,5414,2.232439230563058,Zimbabwe,Developing,Developing,Africa,14.86,1.63199865410498
+Somalia,26410,1361,5.1533510034078,Somalia,Developing,Developing,Eastern Mediterranean,15.89,0.16620516047828823
+Cambodia,134068,3047,2.272727272727273,Cambodia                                              ,Developing,Developing,Western Pacific,16.5,0.8125333333333333
+Senegal,85797,1964,2.2891243283564693,Senegal,Developing,Developing,Africa,16.7,0.5137544910179641
+Ecuador,843760,35316,4.185550393476818,Ecuador                                          ,Developing,Developing,Americas,17.1,4.934269005847953
+Chad,7260,190,2.6170798898071626,Chad                                              ,Developing,Developing,Africa,17.4,0.04172413793103449
+Guatemala,804709,17144,2.130459582283782,Guatemala                                          ,Developing,Developing,Americas,17.4,4.624764367816092
+Syrian Arab Republic,55366,3117,5.629808907994076,Syrian Arab Republic,Developing,Developing,Eastern Mediterranean,17.5,0.31637714285714286
+Chile,3301747,43879,1.32896312164439,Chile                                               ,Developing,Developing,Americas,18.3,18.042333333333332
+Zambia,315202,3960,1.2563372059821956,Zambia,Developing,Developing,Africa,18.38,1.7149183895538629
+Malawi,85499,2623,3.0678721388554253,Malawi,Developing,Developing,Africa,19.1,0.44763874345549737
+Kazakhstan,1392927,18995,1.3636751961875964,Kazakhstan                                            ,Developing,In Transition,Europe,19.2,7.2548281249999995
+Mali,30421,726,2.3865093192202753,Mali,Developing,Developing,Africa,20.3,0.14985714285714286
+Burkina Faso,20751,375,1.807141824490386,Burkina Faso                                       ,Developing,Developing,Africa,21.4,0.09696728971962618
+Sri Lanka,656041,16397,2.499386471272375,Sri Lanka,Developing,Developing,South-East Asia,21.4,3.0656121495327104
+Niger,8781,308,3.5075731693428995,Niger,Developing,Developing,Africa,24.2,0.036285123966942154
+Madagascar,63870,1377,2.155941756693283,Madagascar,Developing,Developing,Africa,27.7,0.23057761732851986
+Côte d’Ivoire,81597,796,0.9755260610071448,Côte d’Ivoire                                          ,Developing,Developing,Africa,28.1,0.29038078291814945
+Venezuela (Bolivarian Republic of),518303,5657,1.0914465090883132,Venezuela (Bolivarian Republic of),Developing,Developing,Americas,28.44,1.8224437412095638
+Cameroon,119322,1926,1.614119776738573,Cameroon                                              ,Developing,Developing,Africa,28.5,0.4186736842105263
+Nepal,977987,11950,1.2218976325861184,Nepal,Developing,Developing,South-East Asia,29.14,3.356166781056966
+Yemen,11784,2139,18.15173116089613,Yemen,Developing,Developing,Eastern Mediterranean,29.8,0.03954362416107382
+Mozambique,225179,2198,0.9761123372961067,Mozambique,Developing,Developing,Africa,31.3,0.7194217252396166
+Ghana,160716,1445,0.8991015206948904,Ghana                                           ,Developing,Developing,Africa,32.4,0.496037037037037
+Malaysia,3823571,33807,0.8841734598363676,Malaysia,Developing,Developing,Western Pacific,32.4,11.801145061728395
+Peru,3535726,211482,5.981289274112304,Peru,Developing,Developing,Americas,32.97,10.724070367000303
+Uzbekistan,237260,1637,0.6899603810166063,Uzbekistan ,Developing,In Transition,Europe,33.5,0.7082388059701492
+Angola,98927,1900,1.9206081251832159,Angola                                               ,Developing,Developing,Africa,33.6,0.2944255952380952
+Saudi Arabia,748769,9018,1.20437678376108,Saudi Arabia ,Developing,Developing,Eastern Mediterranean,34.8,2.1516350574712644
+Morocco,1162096,16039,1.3801785738871832,Morocco,Developing,Developing,Eastern Mediterranean,36.9,3.1493116531165315
+Afghanistan,176201,7643,4.337659831669514,Afghanistan                                             ,Developing,Developing,Eastern Mediterranean,37.5,0.46986933333333336
+Iraq,2312713,25099,1.0852622007140533,Iraq                                             ,Developing,Developing,Eastern Mediterranean,39.7,5.8254735516372795
+Algeria,265432,6864,2.585973055245788,Algeria                                           ,Developing,Developing,Africa,43.6,0.608788990825688
+Ukraine,4906408,107184,2.1845716866595684,Ukraine,Developing,In Transition,Europe,43.7,11.227478260869564
+Sudan,61713,4872,7.894608915463516,Sudan,Developing,Developing,Eastern Mediterranean,43.85,0.14073660205245153
+Uganda,163541,3592,2.1963911190466,Uganda,Developing,Developing,Africa,45.7,0.3578577680525164
+Argentina,8971432,127187,1.417688948653905,Argentina                                            ,Developing,Developing,Americas,45.9,19.545603485838782
+Colombia,6076333,139283,2.2922213117681336,Colombia                                              ,Developing,Developing,Americas,48.8,12.451502049180329
+Republic of Korea,6866222,10595,0.154306108948997,Republic of Korea,Developing,Developing,Western Pacific,51.78,13.260374662031671
+Myanmar,605347,19409,3.2062602110855423,Myanmar,Developing,Developing,South-East Asia,54.41,1.1125657048336703
+Kenya,323183,5645,1.7466884087343704,Kenya                                             ,Developing,Developing,Africa,54.7,0.5908281535648995
+South Africa,3694504,99725,2.6992797950685667,South Africa,Developing,Developing,Africa,59.31,6.22914179733603
+United Republic of Tanzania,33726,800,2.3720571665777146,United Republic of Tanzania,Developing,Developing,Africa,59.73,0.05646408839779006
+Thailand,3206955,23778,0.7414510025865658,Thailand,Developing,Developing,South-East Asia,69.8,4.594491404011461
+Turkey,14550774,96487,0.6631056189863165,Turkey,Developing,Developing,Europe,84.34,17.252518377993834
+Iran (Islamic Republic of),7123093,138949,1.95068350223702,Iran (Islamic Republic of)                           ,Developing,Developing,Eastern Mediterranean,85.9,8.292308498253782
+Viet Nam,6112648,41385,0.6770388218003065,Viet Nam,Developing,Developing,Western Pacific,97.34,6.279687692623792
+Democratic Republic of the Congo,86344,1335,1.5461410173260446,Democratic Republic of the Congo                      ,Developing,Developing,Africa,105,0.08223238095238096
+Egypt,495373,24277,4.900751554888942,Egypt                                                ,Developing,Developing,Eastern Mediterranean,105.9,0.4677743153918791
+Philippines,3670739,57610,1.5694387424439602,Philippines,Developing,Developing,Western Pacific,109.6,3.3492144160583943
+Ethiopia,469184,7486,1.5955360796617104,Ethiopia                                        ,Developing,Developing,Africa,110.9,0.4230694319206492
+Mexico,5605636,321054,5.727342981242449,Mexico,Developing,Developing,Americas,128.9,4.348825446082234
+Russian Federation,17376241,361344,2.079529168592908,Russian Federation,Developing,In Transition,Europe,145.9,11.909692254969157
+Bangladesh,1949725,29112,1.4931336470527894,Bangladesh                                            ,Developing,Developing,South-East Asia,164.1,1.1881322364411946
+Nigeria,254953,3142,1.2323840080328532,Nigeria,Developing,Developing,Africa,206.14,0.12367953817793732
+Brazil,29350134,654945,2.231488960152618,Brazil                                            ,Developing,Developing,Americas,215.9,13.594318666049096
+Sao Tome and Principe,5935,72,1.2131423757371524,Sao Tome and Principe ,Developing,Developing,Africa,219,0.0027100456621004564
+Pakistan,1518692,30307,1.9955988442686206,Pakistan,Developing,Developing,Eastern Mediterranean,220.89,0.6875331613020055
+Indonesia,5900124,152437,2.5836236662144727,Indonesia                                        ,Developing,Developing,South-East Asia,275.1,2.14471973827699
+China,761907,9482,1.2445088442552699,China                                                ,Developing,Developing,Western Pacific,1400,0.05442192857142857
